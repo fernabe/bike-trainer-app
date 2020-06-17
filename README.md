@@ -1,1 +1,1 @@
-# bike-trainer-app
+# Bike trainer app
